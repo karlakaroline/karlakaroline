@@ -62,6 +62,23 @@ I work with monitoring and operational support of critical environments, inciden
 
 ---
 
+## 📊 Featured Portfolio
+
+### Grafana Observability Portfolio
+
+Hands-on portfolio featuring public-safe demo dashboards for **infrastructure monitoring, observability, backup operations and network security visibility**.
+
+Featured projects include:
+
+- Critical Services Observability
+- FortiGate Health Monitoring
+- Veeam Backup Monitoring
+- Palo Alto Firewall Health Monitoring
+
+[View Grafana Observability Portfolio](https://github.com/karlakaroline/grafana-observability-portfolio)
+
+---
+
 ## 🎯 Areas of Interest
 
 `Monitoring` • `Observability` • `Infrastructure` • `NOC` • `Cloud` • `Backup` • `Automation`
