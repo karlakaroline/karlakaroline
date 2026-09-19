@@ -79,6 +79,27 @@ Featured projects include:
 
 ---
 
+### Zabbix Monitoring Lab
+
+Hands-on lab focused on **Zabbix monitoring, Linux troubleshooting and NOC operations**, with practical scenarios based on common infrastructure incidents.
+
+The lab includes:
+
+- Host onboarding and Zabbix Agent validation
+- ICMP availability troubleshooting
+- Filesystem capacity analysis
+- Memory and swap troubleshooting
+- Linux service monitoring
+- Trigger and threshold design
+- HTTP poller troubleshooting
+- Zabbix + Grafana integration
+- NOC incident triage and escalation workflow
+- Linux diagnostic scripts
+
+[View Zabbix Monitoring Lab](https://github.com/karlakaroline/zabbix-monitoring-lab)
+
+---
+
 ## 🎯 Areas of Interest
 
 `Monitoring` • `Observability` • `Infrastructure` • `NOC` • `Cloud` • `Backup` • `Automation`
@@ -113,7 +134,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
+- 😄 Pronouns:
+- ⚡ Fun fact:
 -->
